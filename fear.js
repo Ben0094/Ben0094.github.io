@@ -2,7 +2,7 @@ track_list.push(
     {
         name: "FEAR",
         artist: "NF",
-        image: "",
-        path: "FEAR.001.mp3"
+        image: "FEAR.png",
+        path: "FEAR.003.mp3"
     }
 );
