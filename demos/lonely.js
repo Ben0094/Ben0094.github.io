@@ -2,7 +2,7 @@ track_list.push(
     {
         name: "Lonely",
         artist: "Jovi Chrisman",
-        image: "",
-        path: "Lonely.demo.007.mp3"
+        image: "lonely3.png",
+        path: "Lonely.demo.008.mp3"
     }
 );
